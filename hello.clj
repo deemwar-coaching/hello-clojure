@@ -16,10 +16,4 @@
 
   )
 
-
-
-(repeat )
-
-i = i +1 
-i++11111
-()
+(print "checking")
